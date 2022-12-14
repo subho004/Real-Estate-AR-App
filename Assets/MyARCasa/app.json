@@ -1,0 +1,9 @@
+{
+  "version" : 20160513,
+  "zip-command" : "zip MyARCasa.zip MyARCasa/app.json MyARCasa/entities/*.json MyARCasa/expressions.json",
+  "data" : {
+    "name" : "MyARCasa",
+    "description" : "AR app controlled via voice commands",
+    "lang" : "en"
+  }
+}

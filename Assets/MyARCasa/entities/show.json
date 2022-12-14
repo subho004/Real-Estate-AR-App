@@ -1,0 +1,23 @@
+{
+  "data" : {
+    "lookups" : [
+      "free-text",
+      "keywords"
+    ],
+    "name" : "show",
+    "lang" : "en",
+    "exotic" : false,
+    "id" : "show",
+    "values" : [
+      {
+        "value" : "second floor",
+        "expressions" : [
+          "second floor",
+          "show"
+        ]
+      }
+    ],
+    "doc" : "User-defined entity",
+    "builtin" : false
+  }
+}

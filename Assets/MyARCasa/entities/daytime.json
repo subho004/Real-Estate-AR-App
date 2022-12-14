@@ -1,0 +1,23 @@
+{
+  "data" : {
+    "lookups" : [
+      "free-text",
+      "keywords"
+    ],
+    "name" : "daytime",
+    "lang" : "en",
+    "exotic" : false,
+    "id" : "daytime",
+    "values" : [
+      {
+        "value" : "daytime",
+        "expressions" : [
+          "day time",
+          "daytime"
+        ]
+      }
+    ],
+    "doc" : "User-defined entity",
+    "builtin" : false
+  }
+}

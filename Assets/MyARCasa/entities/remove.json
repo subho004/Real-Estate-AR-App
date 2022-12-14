@@ -1,0 +1,23 @@
+{
+  "data" : {
+    "lookups" : [
+      "free-text",
+      "keywords"
+    ],
+    "name" : "remove",
+    "lang" : "en",
+    "exotic" : false,
+    "id" : "remove",
+    "values" : [
+      {
+        "value" : "roof",
+        "expressions" : [
+          "remove",
+          "roof"
+        ]
+      }
+    ],
+    "doc" : "User-defined entity",
+    "builtin" : false
+  }
+}

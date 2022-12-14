@@ -1,0 +1,23 @@
+{
+  "data" : {
+    "lookups" : [
+      "free-text",
+      "keywords"
+    ],
+    "name" : "nighttime",
+    "lang" : "en",
+    "exotic" : false,
+    "id" : "nighttime",
+    "values" : [
+      {
+        "value" : "nighttime",
+        "expressions" : [
+          "night time",
+          "nighttime"
+        ]
+      }
+    ],
+    "doc" : "User-defined entity",
+    "builtin" : false
+  }
+}

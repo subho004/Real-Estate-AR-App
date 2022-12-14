@@ -1,0 +1,23 @@
+{
+  "data" : {
+    "lookups" : [
+      "free-text",
+      "keywords"
+    ],
+    "name" : "play",
+    "lang" : "en",
+    "exotic" : false,
+    "id" : "play",
+    "values" : [
+      {
+        "value" : "video",
+        "expressions" : [
+          "video",
+          "video please"
+        ]
+      }
+    ],
+    "doc" : "User-defined entity",
+    "builtin" : false
+  }
+}

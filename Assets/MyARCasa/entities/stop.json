@@ -1,0 +1,22 @@
+{
+  "data" : {
+    "lookups" : [
+      "free-text",
+      "keywords"
+    ],
+    "name" : "stop",
+    "lang" : "en",
+    "exotic" : false,
+    "id" : "stop",
+    "values" : [
+      {
+        "value" : "video",
+        "expressions" : [
+          "stop"
+        ]
+      }
+    ],
+    "doc" : "User-defined entity",
+    "builtin" : false
+  }
+}

@@ -1,0 +1,362 @@
+{
+  "data" : [
+    {
+      "text" : "can you hide the second floor",
+      "entities" : [
+        {
+          "entity" : "hide",
+          "value" : "\"second floor\"",
+          "start" : 8,
+          "end" : 12
+        }
+      ]
+    },
+    {
+      "text" : "can you play the video please",
+      "entities" : [
+        {
+          "entity" : "play",
+          "value" : "\"video\"",
+          "start" : 17,
+          "end" : 29
+        }
+      ]
+    },
+    {
+      "text" : "can you remove the roof",
+      "entities" : [
+        {
+          "entity" : "remove",
+          "value" : "\"roof\"",
+          "start" : 8,
+          "end" : 14
+        }
+      ]
+    },
+    {
+      "text" : "can you replace the roof",
+      "entities" : [
+        {
+          "entity" : "replace",
+          "value" : "\"roof\"",
+          "start" : 8,
+          "end" : 15
+        }
+      ]
+    },
+    {
+      "text" : "can you show the second floor",
+      "entities" : [
+        {
+          "entity" : "show",
+          "value" : "\"second floor\"",
+          "start" : 8,
+          "end" : 12
+        }
+      ]
+    },
+    {
+      "text" : "can you stop the video",
+      "entities" : [
+        {
+          "entity" : "stop",
+          "value" : "\"video\"",
+          "start" : 8,
+          "end" : 12
+        }
+      ]
+    },
+    {
+      "text" : "change to day time",
+      "entities" : [
+        {
+          "entity" : "daytime",
+          "value" : "\"daytime\"",
+          "start" : 10,
+          "end" : 18
+        }
+      ]
+    },
+    {
+      "text" : "change to night time"
+    },
+    {
+      "text" : "day time"
+    },
+    {
+      "text" : "day time please",
+      "entities" : [
+        {
+          "entity" : "daytime",
+          "value" : "\"daytime\"",
+          "start" : 0,
+          "end" : 8
+        }
+      ]
+    },
+    {
+      "text" : "daytime",
+      "entities" : [
+        {
+          "entity" : "daytime",
+          "value" : "\"daytime\"",
+          "start" : 0,
+          "end" : 7
+        }
+      ]
+    },
+    {
+      "text" : "daytime please",
+      "entities" : [
+        {
+          "entity" : "daytime",
+          "value" : "\"daytime\"",
+          "start" : 0,
+          "end" : 7
+        }
+      ]
+    },
+    {
+      "text" : "hide second floor",
+      "entities" : [
+        {
+          "entity" : "hide",
+          "value" : "\"second floor\"",
+          "start" : 0,
+          "end" : 4
+        }
+      ]
+    },
+    {
+      "text" : "hide the second floor",
+      "entities" : [
+        {
+          "entity" : "hide",
+          "value" : "\"second floor\"",
+          "start" : 0,
+          "end" : 4
+        }
+      ]
+    },
+    {
+      "text" : "make it daytime",
+      "entities" : [
+        {
+          "entity" : "daytime",
+          "value" : "\"daytime\"",
+          "start" : 8,
+          "end" : 15
+        }
+      ]
+    },
+    {
+      "text" : "night time",
+      "entities" : [
+        {
+          "entity" : "nighttime",
+          "value" : "\"nighttime\"",
+          "start" : 0,
+          "end" : 10
+        }
+      ]
+    },
+    {
+      "text" : "night time please",
+      "entities" : [
+        {
+          "entity" : "nighttime",
+          "value" : "\"nighttime\"",
+          "start" : 0,
+          "end" : 10
+        }
+      ]
+    },
+    {
+      "text" : "nighttime",
+      "entities" : [
+        {
+          "entity" : "nighttime",
+          "value" : "\"nighttime\"",
+          "start" : 0,
+          "end" : 9
+        }
+      ]
+    },
+    {
+      "text" : "play the video",
+      "entities" : [
+        {
+          "entity" : "play",
+          "value" : "\"video\"",
+          "start" : 9,
+          "end" : 14
+        }
+      ]
+    },
+    {
+      "text" : "play video",
+      "entities" : [
+        {
+          "entity" : "play",
+          "value" : "\"video\"",
+          "start" : 5,
+          "end" : 10
+        }
+      ]
+    },
+    {
+      "text" : "play video please",
+      "entities" : [
+        {
+          "entity" : "play",
+          "value" : "\"video\"",
+          "start" : 5,
+          "end" : 17
+        }
+      ]
+    },
+    {
+      "text" : "please hide second floor",
+      "entities" : [
+        {
+          "entity" : "hide",
+          "value" : "\"second floor\"",
+          "start" : 7,
+          "end" : 11
+        }
+      ]
+    },
+    {
+      "text" : "please remove the roof",
+      "entities" : [
+        {
+          "entity" : "remove",
+          "value" : "\"roof\"",
+          "start" : 7,
+          "end" : 13
+        }
+      ]
+    },
+    {
+      "text" : "put back the roof",
+      "entities" : [
+        {
+          "entity" : "replace",
+          "value" : "\"roof\"",
+          "start" : 13,
+          "end" : 17
+        }
+      ]
+    },
+    {
+      "text" : "remove roof",
+      "entities" : [
+        {
+          "entity" : "remove",
+          "value" : "\"roof\"",
+          "start" : 0,
+          "end" : 6
+        }
+      ]
+    },
+    {
+      "text" : "remove the roof",
+      "entities" : [
+        {
+          "entity" : "remove",
+          "value" : "\"roof\"",
+          "start" : 0,
+          "end" : 6
+        }
+      ]
+    },
+    {
+      "text" : "replace roof",
+      "entities" : [
+        {
+          "entity" : "replace",
+          "value" : "\"roof\"",
+          "start" : 0,
+          "end" : 7
+        }
+      ]
+    },
+    {
+      "text" : "replace the roof",
+      "entities" : [
+        {
+          "entity" : "replace",
+          "value" : "\"roof\"",
+          "start" : 0,
+          "end" : 7
+        }
+      ]
+    },
+    {
+      "text" : "second floor please",
+      "entities" : [
+        {
+          "entity" : "show",
+          "value" : "\"second floor\"",
+          "start" : 0,
+          "end" : 12
+        }
+      ]
+    },
+    {
+      "text" : "show second floor",
+      "entities" : [
+        {
+          "entity" : "show",
+          "value" : "\"second floor\"",
+          "start" : 0,
+          "end" : 4
+        }
+      ]
+    },
+    {
+      "text" : "show the second floor",
+      "entities" : [
+        {
+          "entity" : "show",
+          "value" : "\"second floor\"",
+          "start" : 0,
+          "end" : 4
+        }
+      ]
+    },
+    {
+      "text" : "stop the video",
+      "entities" : [
+        {
+          "entity" : "stop",
+          "value" : "\"video\"",
+          "start" : 0,
+          "end" : 4
+        }
+      ]
+    },
+    {
+      "text" : "stop video",
+      "entities" : [
+        {
+          "entity" : "stop",
+          "value" : "\"video\"",
+          "start" : 0,
+          "end" : 4
+        }
+      ]
+    },
+    {
+      "text" : "take off the roof",
+      "entities" : [
+        {
+          "entity" : "remove",
+          "value" : "\"roof\"",
+          "start" : 13,
+          "end" : 17
+        }
+      ]
+    }
+  ]
+}
